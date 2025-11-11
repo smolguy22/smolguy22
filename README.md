@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaurya
 - 👀 I’m interested in Web Development and Competitive Programming
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : shaurya061002@gmail.com
 
